@@ -1,5 +1,6 @@
 # Week 5 In Class Assignment 
 ## Website: New York DMV Drivers License desktop website
+<img width="1440" alt="Screen Shot 2021-10-04 at 4 49 03 PM" src="https://user-images.githubusercontent.com/91553084/138924028-50868db6-d4d8-4702-b9b9-f90f84788b6a.png">
 
 ### Good aspects of its interface design
 * All the main tabs are separated into rectangles that you can click on in order to visit that tab. Anywhere you click on the rectangle will take you to the next page; You dont have to specifically click on the words inside the rectangle themselves. 
